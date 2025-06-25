@@ -21,10 +21,6 @@ A laser continuously falls on the LDR. When an object interrupts the beam (like 
 - The LDR and resistor form a voltage divider.
 - When light is present, the LDR has low resistance → transistor stays off.
 - When light is blocked, voltage increases → transistor turns on → buzzer sounds.
-  
-## 📸 Circuit Image
-
-![Laser Circuit](laser_circuit.jpg)  
 
 ## ✨ What I Learned
 - Basic sensor (LDR) usage
